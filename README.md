@@ -1,11 +1,11 @@
 
 ## <p align="center"> Hi 👋, I'm Connor Keenum </p> ##
-### <p align="center"> A Computer Science Student at UCO. <a href="https://www.uco.edu" target="blank"><img align="center" src="https://www.uco.edu/favicon.ico" alt="UCO Image" height="30" width="30" /></a></p> ###
+### <p align="center"> A Software Engineering Student at UCO. <a href="https://www.uco.edu" target="blank"><img align="center" src="https://www.uco.edu/favicon.ico" alt="UCO Image" height="30" width="30" /></a></p> ###
 
-- 🌱 I’m currently learning React, Redux, and Front End Web Development
-- 🔭 I’m currently working on Task Organizer JS, I still need a domain for it to host it
+- 🌱 I’m currently learning React, Redux, APIs, Headless CMS, Firebase, Stripe, and Front End Web Development
+- 🔭 I’m currently working on Task Organizer JS, a few private projects, and Planning-Algorithms
 - 👯 I’m looking to collaborate on any project that is at my skill level 
-- 📫 How to reach me: I am most active on Facebook
+- 📫 How to reach me: I am most active on Facebook and Discord. My Discord is __Nellak2021#2968__
 
 <table>
   <tr>
