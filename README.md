@@ -2,7 +2,7 @@
 ## <p align="center"> Hi 👋, I'm Connor Keenum </p> ##
 ### <p align="center"> A Software Engineering Student at UCO. <a href="https://www.uco.edu" target="blank"><img align="center" src="https://www.uco.edu/favicon.ico" alt="UCO Image" height="30" width="30" /></a></p> ###
 
-- 🌱 I’m currently learning React, Redux, APIs, Headless CMS, Firebase, Stripe, and Front End Web Development
+- 🌱 I’m currently learning Next, MobX, Sanity.IO, Golang, TDD, GraphQL, API Design Patterns, NoSQL, TensorFlow, Express, Algorithms and DS, Docker and Kubernetes, Flutter, NGINX, Headless CMS, Firebase, Stripe and other Microservices, and Others
 - 🔭 I’m currently working on Task Organizer JS, a few private projects, and Planning-Algorithms
 - 👯 I’m looking to collaborate on any project that is at my skill level 
 - 📫 How to reach me: I am most active on Facebook and Discord. My Discord is __Nellak2021#2968__
@@ -30,7 +30,8 @@
     </td>
     <td>
       <p align="left"> 
-        <a href="https://projecteuler.net/about" target="_blank"><img src="https://projecteuler.net/favicon.ico" alt="Project Euler" height="40" width="40" /></a>
+        <a href="https://en.wikipedia.org/wiki/Calculus" target="_blank"> <img src="https://en-academic.com/pictures/enwiki/84/Tangent_to_a_curve.svg" alt="Calculus" width="40" height="40"/> </a>
+        <a href="https://projecteuler.net/about" target="_blank"><img src="https://projecteuler.net/favicons/favicon-32x32.png" alt="Project Euler" height="40" width="40" /></a>
         <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/j/2/java.svg" alt="java" width="40" height="40"/> </a>
         <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
         <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -39,7 +40,25 @@
         <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
         <a href="https://reactjs.org/" target="_blank"> <img src="https://reactjs.org/favicon.ico" alt="React" width="40" height="40"/> </a> 
         <a href="https://styled-components.com/" target="_blank"> <img src="https://styled-components.com/logo.png" alt="sass" width="40" height="40"/> </a>
-        <a href="https://redux.js.org/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/r/69/redux.svg" alt="Redux" width="40" height="40"/> </a>    
+        <a href="https://redux.js.org/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/r/69/redux.svg" alt="Redux" width="40" height="40"/> </a>  
+        <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/vfe91fb476857baf3af253bcf26a4ee5d17e521f41e429379c0c2f0dd1eb46e1b/firebase/images/favicon.png" alt="Firebase" width="40" height="40"/> </a>
+        <a href="https://www.sanity.io/" target="_blank"> <img src="https://www.sanity.io/static/images/favicons/favicon-96x96.png" alt="Sanity.Io" width="40" height="40"/> </a>
+        <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" alt="TypeScript" width="40" height="40"/> </a>
+        <a href="https://nextjs.org/" target="_blank"> <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="nextjs" width="40" height="40"/> </a>
+        <a href="https://go.dev/" target="_blank"> <img src="https://go.dev/images/go-logo-blue.svg" alt="Golang" width="40" height="40"/> </a>
+        <a href="https://graphql.org/" target="_blank"> <img src="https://graphql.org/img/logo.svg" alt="GraphQL" width="40" height="40"/> </a>
+        <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="MongoDB" width="40" height="40"/> </a>
+        <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/vfe91fb476857baf3af253bcf26a4ee5d17e521f41e429379c0c2f0dd1eb46e1b/tensorflow/images/favicon.png" alt="TensorFlow" width="40" height="40"/> </a>
+        <a href="https://mobx.js.org/" target="_blank"> <img src="https://mobx.js.org/assets/mobx.png" alt="mobx" width="40" height="40"/> </a>
+        <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank"> <img src="https://miro.medium.com/max/1033/1*RieLfIqg9CGCVmENxDuByA.png" alt="TDD" width="40" height="40"/> </a>
+        <a href="https://expressjs.com/" target="_blank"> <img src="https://expressjs.com/images/favicon.png" alt="expressjs" width="40" height="40"/> </a>
+        <a href="https://www.nginx.com/" target="_blank"> <img src="https://www.nginx.com/wp-content/uploads/2019/10/favicon-64x46.ico" alt="nginx" width="40" height="40"/> </a>
+        <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="docker" width="40" height="40"/> </a>
+        <a href="https://github.com/TheAlgorithms/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20487725?s=200&v=4" alt="Algorithms" width="40" height="40"/> </a>
+        <a href="https://flutter.dev/" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" alt="Flutter" width="40" height="40"/> </a>
+        <a href="https://kotlinlang.org/" target="_blank"> <img src="https://kotlinlang.org/assets/images/favicon.svg?&v=8607ff59d5296c7642ecd72bd3daa79b" alt="Kotlin" width="40" height="40"/> </a>
+        <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fisher_iris_versicolor_sepalwidth.svg/100px-Fisher_iris_versicolor_sepalwidth.svg.png" alt="Statistics" width="40" height="40"/> </a>
+        <a href="https://en.wikipedia.org/wiki/Linear_algebra" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Linear_subspaces_with_shading.svg/250px-Linear_subspaces_with_shading.svg.png" alt="Linear Algebra" width="40" height="40"/> </a>
     </td>
   </tr>
 </table>
