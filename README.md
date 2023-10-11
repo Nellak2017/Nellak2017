@@ -1,9 +1,9 @@
 
 ## <p align="center"> Hi 👋, I'm Connor Keenum </p> ##
-### <p align="center"> A Software Engineering Student at UCO. <a href="https://www.uco.edu" target="blank"><img align="center" src="https://www.uco.edu/favicon.ico" alt="UCO Image" height="30" width="30" /></a></p> ###
+### <p align="center"> A Senior Software Engineering Student at UCO. <a href="https://www.uco.edu" target="blank"><img align="center" src="https://www.uco.edu/favicon.ico" alt="UCO Image" height="30" width="30" /></a></p> ###
 
-- 🌱 I’m currently learning Next, MobX, Sanity.IO, Golang, TDD, GraphQL, API Design Patterns, NoSQL, TensorFlow, Express, Algorithms and DS, Docker and Kubernetes, Flutter, NGINX, Headless CMS, Firebase, Stripe and other Microservices, and Others
-- 🔭 I’m currently working on Task Organizer JS, a few private projects, and Planning-Algorithms
+- 🌱 I’m currently learning Clojure, ClojureScript, and Back End Technologies such as SQL and CDNs
+- 🔭 I’m currently working on Plan Weave and my Software Engineering 2 LLM Project
 - 👯 I’m looking to collaborate on any project that is at my skill level 
 - 📫 How to reach me: I am most active on Facebook and Discord. My Discord is __Nellak2021#2968__
 
