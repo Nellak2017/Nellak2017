@@ -1,6 +1,6 @@
 
 ## <p align="center"> Hi 👋, I'm Connor Keenum </p> ##
-### <p align="center"> A Senior Software Engineering Student at UCO. <a href="https://www.uco.edu" target="blank"><img align="center" src="https://www.uco.edu/favicon.ico" alt="UCO Image" height="30" width="30" /></a></p> ###
+### <p align="center"> A Software Engineering Graduate from UCO. <a href="https://www.uco.edu" target="blank"><img align="center" src="https://www.uco.edu/favicon.ico" alt="UCO Image" height="30" width="30" /></a></p> ###
 
 - 🌱 I’m currently learning ReScript, and Back End Technologies such as SQL and CDNs
 - 🔭 I’m currently working on Plan Weave and my Software Engineering Capstone Project
