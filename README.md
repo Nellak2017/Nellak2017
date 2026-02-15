@@ -4,7 +4,6 @@
 - 🌱 I’m currently Freelancing on Upwork. <a href="https://www.upwork.com/freelancers/~011e0db4c20e2e5558" target="blank">My Upwork Profile</a>
 - 🔭 I’m currently working on Freelancing Micro Samples to refine my craft and attract clients. <a href="https://www.connorkeenum.dev" target="blank">My Freelance Samples</a> 
 - 👯 I’m looking for Freelance Work in the Niche of Static Website Development, Landing Pages, Forms, Small Websites, and Bug Fixes. 
-- 📫 You can contact me through my professional email: __connor.keenum@proton.me__
 
 <table>
   <tr>
